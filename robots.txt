@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tragon.in/sitemap.xml
